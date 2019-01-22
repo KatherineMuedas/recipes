@@ -15,3 +15,10 @@
 .center{
   text-align: center;
 }
+
+.jumbotron{
+  background-image: asset-url('main-image.jpg');
+  background-size: cover;
+  background-position: bottom;
+  height: 400px;
+}
